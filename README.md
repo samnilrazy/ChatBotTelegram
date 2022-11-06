@@ -3,7 +3,7 @@
 
 
 
-## Faça o <a href="">download</a> do repositorio
+## Faça o <a href="https://github.com/samnilrazy/ChatBotTelegram/archive/refs/heads/main.zip">download</a> do repositorio
 
 
 ## Após a instalação, abra o cmd e digite os seguintes comandos: 
