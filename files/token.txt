@@ -1,1 +1,1 @@
-TOKEN = "5013419520:AAGkZsF7yfELLRtT0Nd0zrZBZ8blCjYKgAE" # Coloque o token do bot dentro das aspas
+TOKEN = "" # Coloque o token do bot dentro das aspas
